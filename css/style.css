@@ -10,7 +10,7 @@ body {
 
 @font-face {
   font-family: Bohemia;
-  src: url('file:///C:/Coding/Ice-Creamify/fonts/OstrichSans-Bold.otf');
+  src: url('../fonts/OstrichSans-Bold.otf');
 }
 
 .awning {
@@ -89,7 +89,7 @@ input {
   border-radius: 5px 0 0 5px;
   margin: 0;
   margin-top: 30px;
-  background-image: url('file:///C:/Coding/Ice-Creamify/img/icon_gray.png');
+  background-image: url('../img/icon_gray.png');
   background-size: 45px;
   background-repeat: no-repeat;
   background-position: 0% 50%;
@@ -97,7 +97,7 @@ input {
 
 input:focus {
   border-color: #454553;
-  background-image: url('file:///C:/Coding/Ice-Creamify/img/icon_black.png');
+  background-image: url('../img/icon_black.png');
 }
 
 button {
@@ -195,7 +195,7 @@ button:active {
 /*Mint-Chocolate Chip*/
 .scoop3 {
   background-color: mediumspringgreen;
-  background-image: url('file:///C:/Coding/Ice-Creamify/img/choco_chips.png');
+  background-image: url('../img/choco_chips.png');
   background-repeat: repeat;
   background-size: 50px;
 }
@@ -203,7 +203,7 @@ button:active {
 /*Strawberry*/
 .scoop4 {
 background-color: palevioletred;
-background-image: url('file:///C:/Coding/Ice-Creamify/img/strawberry.png');
+background-image: url('../img/strawberry.png');
 background-repeat: repeat;
 background-size: 50px;
 }
@@ -211,7 +211,7 @@ background-size: 50px;
 /*Butter Pecan*/
 .scoop5 {
 background-color: beige;
-background-image: url('file:///C:/Coding/Ice-Creamify/img/dough.png');
+background-image: url('../img/dough.png');
 background-repeat: repeat;
 background-size: 50px;
 }
@@ -219,7 +219,7 @@ background-size: 50px;
 /*Chocolate Chip*/
 .scoop6 {
 background-color: saddlebrown;
-background-image: url('file:///C:/Coding/Ice-Creamify/img/choco_chips.png');
+background-image: url('../img/choco_chips.png');
 background-repeat: repeat;
 background-size: 50px;
 }
@@ -232,7 +232,7 @@ background-color: palegreen;
 /*Cookies and Dough*/
 .scoop8 {
 background-color: #3f2a14;
-background-image: url('file:///C:/Coding/Ice-Creamify/img/dough.png');
+background-image: url('../img/dough.png');
 background-repeat: repeat;
 background-size: 50px;
 }
